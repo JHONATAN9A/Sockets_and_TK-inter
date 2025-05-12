@@ -27,7 +27,4 @@ Permitir el **control remoto de un cubo 3D** mediante comandos enviados por red 
 ---
 
 ## 🖼️ Vista de la Aplicación
-
-*Reemplaza el siguiente enlace con tu imagen del proyecto:*
-
 ![Vista del Proyecto](https://github.com/JHONATAN9A/Sockets_and_TK-inter/blob/main/img_t_a.png)
